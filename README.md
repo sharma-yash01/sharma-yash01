@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @sharma-yash01
-- 👀 I’m interested in **Data Science** & **Machine Learning Engineering**!
-- 🌱 I’m currently learning Computer Science (ML) & Economics (Game Theory/Macroeconomics)
-- 💞️ I’m looking to collaborate on research!
-- 📫 How to reach me **yashaswisharma2015@gmail.com**
+- 👀 I’m interested in **Machine Learning Engineering** and **Scalable System Design**!
+- 🌱 I’m currently a Software Engineer at Amazon
+- 📫 How to reach me
+- **yashjobs20@gmail.com** - For Recruiters and those inquiring on my projects hosted here
+- **yashaswisharma2015@gmail.com** - For Personal emails
 
-This GitHub account is to display key personal projects I have done that show my competence across the Data Science pipeline! If you are a recruiter, please observe that there are up to 5 project repositories in my account. Each one will label at **the top** which key skills this one demonstrates.
+The most up to date recruiting project is on https://yashu2000.github.io/
 
 Thank you for coming to my repo!
 
