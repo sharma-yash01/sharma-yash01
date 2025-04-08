@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sharma-yash01
 - 👀 I’m interested in **Machine Learning Engineering** and **Scalable System Design**!
-- 🌱 I’m currently a Software Engineer at Amazon
+- 🌱 I’m currently an AI Engineer at Snovation, check them out [here](https://snovation.com/)!
+  - Ex-AWS SDE :)
 - 📫 How to reach me
 - **yashjobs20@gmail.com** - For Recruiters and those inquiring on my projects hosted here
 - **yashaswisharma2015@gmail.com** - For Personal emails
